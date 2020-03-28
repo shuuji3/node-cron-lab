@@ -2,7 +2,10 @@
   "name": "node-cron-lab",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT",
+  "license": "GPL-3.0-or-later",
+  "scripts": {
+      "start": "node index.js"
+  },
   "dependencies": {
     "node-cron": "^2.0.3"
   }
